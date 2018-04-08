@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/rany/Documents/reinforcement/gym/gym/benchmarks'
+let g:netrw_dirhist_2='/Users/rany/Documents/reinforcement/gym/gym'
+let g:netrw_dirhist_3='/Users/rany/Documents/reinforcement/gym'
+let g:netrw_dirhist_4='/Users/rany/Documents/reinforcement/gym/gym'
+let g:netrw_dirhist_5='/Users/rany/Documents/reinforcement/gym'
+let g:netrw_dirhist_6='/Users/rany/Documents/VNenergyLLC/demand_charge_shaving/app/apm'
+let g:netrw_dirhist_7='/Users/rany/Documents/DeepBitsLLC/site/new/deepbits_webpage'
